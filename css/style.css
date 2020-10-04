@@ -1,0 +1,19 @@
+body,
+html {
+  height: 100%;
+  width: 100%;
+  /* background-image: url(../img/mainpage.png); */
+  /* background-position: center; */
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+}
+.cool {
+  background-image: url(../img/mainpage.png);
+  height: 4500px;
+  margin-top: -10px;
+  margin-left: -30px;
+  /* background-color: black; */
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: 102%;
+}
